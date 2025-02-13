@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Saint-St&color=blue)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Chaos+inspires;+security+prevails.)](https://git.io/typing-svg)
 # 💫 About Me:
 👋 Hi, I'm Saint-St!<br>I'm a cybersecurity enthusiast and a Bachelor of Business Information Technology (BBIT) student, passionate about leveraging technology to solve real-world challenges. My interests lie primarily in cybersecurity and exploring innovative ways to protect data and systems.<br><br>On my GitHub, you'll find projects focused on cybersecurity and tech-driven solutions. I'm always open to collaboration and learning from the community.<br><br>📫 Feel free to reach out via LinkedIn or email me at orangavictor03@gmail.com.
