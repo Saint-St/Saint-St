@@ -1,15 +1,67 @@
-<div align="center"><img src="https://user-badge.committers.top/philippines_public/xiv3r.svg"/></div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saint-St&color=00a8ff&style=flat-square&label=Digital+Footprint" alt="Profile Views" />
+</p>
 
-<br>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00a8ff&center=true&vCenter=true&width=435&lines=Entropy+Reigns;Cyber+Immunity+Established." alt="Typing SVG" />
+</h1>
 
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiv3r&theme=prussian" width="840" height="auto"/></div>
+<h3 align="center">❄️ Security-Driven Full Stack Developer | Nairobi, Kenya ❄️</h3>
 
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiv3r&theme=prussian" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xiv3r&theme=prussian" width="48%" height="auto" style="display: inline;"/></div>
+---
 
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiv3r&theme=prussian" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiv3r&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;"/></div>
-
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=xiv3r&bg_color=1E3A4C&color=00FFFF&line=FF0000&point=FFA07A&area=true&hide_border=false" width="96%" height="auto"><img src="https://github-readme-stats.vercel.app/api?username=xiv3r&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="xiv3r"/> <img height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiv3r&theme=radical&layout=pie"/></p>
+### 🏅 Community Footprint
 
 <div align="center">
+  <img src="https://user-badge.committers.top/kenya_public/Saint-St.svg"/>
+</div>
 
-[![xiv3r](https://stardev.io/developers/xiv3r/badge/languages/global.svg)](https://stardev.io/developers/xiv3r)</div>
+---
+
+### 🧠 GitHub Profile Intelligence
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saint-St&theme=prussian" width="840" height="auto"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saint-St&theme=prussian" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saint-St&theme=prussian" width="48%" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saint-St&theme=prussian" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saint-St&theme=prussian&utcOffset=+3" width="48%" />
+</div>
+
+---
+
+### 🔥 Git Pulse
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saint-St&bg_color=1E3A4C&color=00FFFF&line=FF0000&point=FFA07A&area=true&hide_border=false" width="96%" />
+</p>
+
+---
+
+### ❄️ Cyber Cryogenics Engineer
+**`Security Archon | Containerization Sentinel`**
+
+<img align="right" src="https://raw.githubusercontent.com/Saint-St/Saint-St/main/assets/cyber-anime.gif" width="300" />
+
+- 🔭 Crafting secure frontend experiences with **Flutter & Dart**
+- 🛡️ Hardening containerized environments using **Docker & Kubernetes**
+- 🌐 Developing cyber-resilient fullstack solutions from **Nairobi, Kenya**
+- 🧠 Mastering **low-level security** through C/C++ systems programming
+- 📫 Reach me: **[orangavictor03@gmail.com](mailto:orangavictor03@gmail.com)**
+
+---
+
+### 🧊 Frostbite Toolkit
+
+#### 🧪 Core Development
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" title="Dart" />
+  <img src="https://ww
